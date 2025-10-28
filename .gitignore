@@ -1,0 +1,36 @@
+# Models
+#*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Data
+*.db
+*.csv
+#*.json
+*.parquet
+#*.jpg
+#*.jpeg
+#*.png
+data/
+datasets/
+
+# Logs
+logs/
+mlruns/
+runs/
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

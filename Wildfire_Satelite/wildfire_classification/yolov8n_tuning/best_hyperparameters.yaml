@@ -1,0 +1,7 @@
+# 10/10 iterations complete ✅ (1287.30s)
+# Results saved to /home/oleg/projects/ML/Wildfire_Satelite/wildfire_classification/yolov8n_tuning
+# Best fitness=0.99421 observed at iteration 7
+# Best fitness metrics are {'metrics/accuracy_top1': 0.98841, 'metrics/accuracy_top5': 1.0, 'val/loss': 0.03419, 'fitness': 0.99421}
+# Best fitness model is /home/oleg/projects/ML/Wildfire_Satelite/wildfire_classification/train2
+lr0: 0.00837
+weight_decay: 0.00041
