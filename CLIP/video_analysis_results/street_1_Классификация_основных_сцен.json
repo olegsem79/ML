@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": 0.0,
+    "frame": 0,
+    "class": "crowded street",
+    "confidence": 0.28280460834503174,
+    "all_probabilities": {
+      "urban street with buildings": 0.14180736243724823,
+      "road with vehicles": 0.16819530725479126,
+      "pedestrian area": 0.10492240637540817,
+      "residential area": 0.041582923382520676,
+      "commercial area": 0.07307711243629456,
+      "park or green area": 0.006905627902597189,
+      "empty street": 0.002612082287669182,
+      "crowded street": 0.28280460834503174,
+      "traffic jam": 0.13903725147247314,
+      "intersection": 0.03905535116791725
+    }
+  },
+  {
+    "timestamp": 2.0,
+    "frame": 48,
+    "class": "crowded street",
+    "confidence": 0.3097876310348511,
+    "all_probabilities": {
+      "urban street with buildings": 0.23150523006916046,
+      "road with vehicles": 0.11433310061693192,
+      "pedestrian area": 0.1056799367070198,
+      "residential area": 0.030900556594133377,
+      "commercial area": 0.08898735791444778,
+      "park or green area": 0.0037476548459380865,
+      "empty street": 0.001824584323912859,
+      "crowded street": 0.3097876310348511,
+      "traffic jam": 0.0831826776266098,
+      "intersection": 0.030051298439502716
+    }
+  },
+  {
+    "timestamp": 4.0,
+    "frame": 96,
+    "class": "crowded street",
+    "confidence": 0.5240129828453064,
+    "all_probabilities": {
+      "urban street with buildings": 0.08704712241888046,
+      "road with vehicles": 0.05366972088813782,
+      "pedestrian area": 0.0955486074090004,
+      "residential area": 0.024378662928938866,
+      "commercial area": 0.06989165395498276,
+      "park or green area": 0.0020746320951730013,
+      "empty street": 0.0007496842299588025,
+      "crowded street": 0.5240129828453064,
+      "traffic jam": 0.11964404582977295,
+      "intersection": 0.022982895374298096
+    }
+  },
+  {
+    "timestamp": 6.0,
+    "frame": 144,
+    "class": "crowded street",
+    "confidence": 0.7015615701675415,
+    "all_probabilities": {
+      "urban street with buildings": 0.03877974674105644,
+      "road with vehicles": 0.026103559881448746,
+      "pedestrian area": 0.14858369529247284,
+      "residential area": 0.009102713316679,
+      "commercial area": 0.03326276317238808,
+      "park or green area": 0.001596722169779241,
+      "empty street": 0.0005231544491834939,
+      "crowded street": 0.7015615701675415,
+      "traffic jam": 0.02985444851219654,
+      "intersection": 0.010631681419909
+    }
+  },
+  {
+    "timestamp": 8.0,
+    "frame": 192,
+    "class": "crowded street",
+    "confidence": 0.5335244536399841,
+    "all_probabilities": {
+      "urban street with buildings": 0.024096669629216194,
+      "road with vehicles": 0.039367225021123886,
+      "pedestrian area": 0.08813389390707016,
+      "residential area": 0.004376627039164305,
+      "commercial area": 0.020787926390767097,
+      "park or green area": 0.0009407562320120633,
+      "empty street": 0.0005074457149021327,
+      "crowded street": 0.5335244536399841,
+      "traffic jam": 0.25862768292427063,
+      "intersection": 0.029637319967150688
+    }
+  },
+  {
+    "timestamp": 10.0,
+    "frame": 240,
+    "class": "crowded street",
+    "confidence": 0.5991355180740356,
+    "all_probabilities": {
+      "urban street with buildings": 0.03227982670068741,
+      "road with vehicles": 0.05924951657652855,
+      "pedestrian area": 0.0918981060385704,
+      "residential area": 0.013462474569678307,
+      "commercial area": 0.04350002110004425,
+      "park or green area": 0.0016130850417539477,
+      "empty street": 0.0005153753445483744,
+      "crowded street": 0.5991355180740356,
+      "traffic jam": 0.140584334731102,
+      "intersection": 0.017761755734682083
+    }
+  },
+  {
+    "timestamp": 12.0,
+    "frame": 288,
+    "class": "crowded street",
+    "confidence": 0.3414083421230316,
+    "all_probabilities": {
+      "urban street with buildings": 0.053626492619514465,
+      "road with vehicles": 0.15636031329631805,
+      "pedestrian area": 0.08165935426950455,
+      "residential area": 0.01636894978582859,
+      "commercial area": 0.053503893315792084,
+      "park or green area": 0.002974123926833272,
+      "empty street": 0.0010783218313008547,
+      "crowded street": 0.3414083421230316,
+      "traffic jam": 0.2609094977378845,
+      "intersection": 0.03211076930165291
+    }
+  },
+  {
+    "timestamp": 14.0,
+    "frame": 336,
+    "class": "traffic jam",
+    "confidence": 0.3675127625465393,
+    "all_probabilities": {
+      "urban street with buildings": 0.04483472928404808,
+      "road with vehicles": 0.24664559960365295,
+      "pedestrian area": 0.034086674451828,
+      "residential area": 0.014058823697268963,
+      "commercial area": 0.0430719293653965,
+      "park or green area": 0.0020535243675112724,
+      "empty street": 0.000860623549669981,
+      "crowded street": 0.2177308201789856,
+      "traffic jam": 0.3675127625465393,
+      "intersection": 0.029144590720534325
+    }
+  },
+  {
+    "timestamp": 16.0,
+    "frame": 384,
+    "class": "traffic jam",
+    "confidence": 0.2567124366760254,
+    "all_probabilities": {
+      "urban street with buildings": 0.06602056324481964,
+      "road with vehicles": 0.21379975974559784,
+      "pedestrian area": 0.06508832424879074,
+      "residential area": 0.02246789261698723,
+      "commercial area": 0.053313251584768295,
+      "park or green area": 0.004454529378563166,
+      "empty street": 0.0013267598114907742,
+      "crowded street": 0.24634547531604767,
+      "traffic jam": 0.2567124366760254,
+      "intersection": 0.07047100365161896
+    }
+  },
+  {
+    "timestamp": 18.0,
+    "frame": 432,
+    "class": "crowded street",
+    "confidence": 0.28647804260253906,
+    "all_probabilities": {
+      "urban street with buildings": 0.08168735355138779,
+      "road with vehicles": 0.17712362110614777,
+      "pedestrian area": 0.09478826820850372,
+      "residential area": 0.011341139674186707,
+      "commercial area": 0.04216928035020828,
+      "park or green area": 0.0016026815865188837,
+      "empty street": 0.0009499758598394692,
+      "crowded street": 0.28647804260253906,
+      "traffic jam": 0.2776883840560913,
+      "intersection": 0.02617121860384941
+    }
+  },
+  {
+    "timestamp": 20.0,
+    "frame": 480,
+    "class": "crowded street",
+    "confidence": 0.34102123975753784,
+    "all_probabilities": {
+      "urban street with buildings": 0.05647033825516701,
+      "road with vehicles": 0.21661831438541412,
+      "pedestrian area": 0.08565259724855423,
+      "residential area": 0.024944396689534187,
+      "commercial area": 0.05135723203420639,
+      "park or green area": 0.003619404509663582,
+      "empty street": 0.0014495861250907183,
+      "crowded street": 0.34102123975753784,
+      "traffic jam": 0.20703403651714325,
+      "intersection": 0.011832807213068008
+    }
+  },
+  {
+    "timestamp": 22.0,
+    "frame": 528,
+    "class": "crowded street",
+    "confidence": 0.32831141352653503,
+    "all_probabilities": {
+      "urban street with buildings": 0.25738266110420227,
+      "road with vehicles": 0.07622000575065613,
+      "pedestrian area": 0.09534472227096558,
+      "residential area": 0.02620532549917698,
+      "commercial area": 0.06496887654066086,
+      "park or green area": 0.009467670693993568,
+      "empty street": 0.0033893571235239506,
+      "crowded street": 0.32831141352653503,
+      "traffic jam": 0.07691310346126556,
+      "intersection": 0.06179681792855263
+    }
+  },
+  {
+    "timestamp": 24.0,
+    "frame": 576,
+    "class": "traffic jam",
+    "confidence": 0.4808556139469147,
+    "all_probabilities": {
+      "urban street with buildings": 0.06444037705659866,
+      "road with vehicles": 0.19290666282176971,
+      "pedestrian area": 0.015975017100572586,
+      "residential area": 0.0215116236358881,
+      "commercial area": 0.03496886417269707,
+      "park or green area": 0.0032240443397313356,
+      "empty street": 0.0008289875113405287,
+      "crowded street": 0.15549315512180328,
+      "traffic jam": 0.4808556139469147,
+      "intersection": 0.029795605689287186
+    }
+  },
+  {
+    "timestamp": 26.0,
+    "frame": 624,
+    "class": "road with vehicles",
+    "confidence": 0.3872908353805542,
+    "all_probabilities": {
+      "urban street with buildings": 0.051085032522678375,
+      "road with vehicles": 0.3872908353805542,
+      "pedestrian area": 0.01914852112531662,
+      "residential area": 0.017882835119962692,
+      "commercial area": 0.03327763453125954,
+      "park or green area": 0.00310193351469934,
+      "empty street": 0.0009755138889886439,
+      "crowded street": 0.11486046016216278,
+      "traffic jam": 0.3492547273635864,
+      "intersection": 0.023122474551200867
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 6.0,
+    "frame": 150,
+    "class": "police activity",
+    "confidence": 0.3560236394405365,
+    "all_probabilities": {
+      "accident or crash": 0.04384620487689972,
+      "unusual event": 0.002973607974126935,
+      "police activity": 0.3560236394405365,
+      "ambulance or emergency": 0.09225215017795563,
+      "construction zone": 0.08133076131343842,
+      "parade or event": 0.03515429049730301,
+      "protest or gathering": 0.030872026458382607,
+      "celebrity sighting": 0.0017969744512811303,
+      "beautiful sunset": 4.332742537371814e-05,
+      "interesting architecture": 0.0050834533758461475,
+      "crowd gathering": 0.22442997992038727,
+      "empty scene": 0.1261935830116272
+    }
+  },
+  {
+    "timestamp": 8.0,
+    "frame": 200,
+    "class": "police activity",
+    "confidence": 0.5947346091270447,
+    "all_probabilities": {
+      "accident or crash": 0.0497705452144146,
+      "unusual event": 0.0017483964329585433,
+      "police activity": 0.5947346091270447,
+      "ambulance or emergency": 0.07180504500865936,
+      "construction zone": 0.03520479425787926,
+      "parade or event": 0.022105608135461807,
+      "protest or gathering": 0.016909176483750343,
+      "celebrity sighting": 0.0013631699839606881,
+      "beautiful sunset": 1.8137185179512016e-05,
+      "interesting architecture": 0.001779357553459704,
+      "crowd gathering": 0.1309412270784378,
+      "empty scene": 0.07361996173858643
+    }
+  },
+  {
+    "timestamp": 12.0,
+    "frame": 300,
+    "class": "police activity",
+    "confidence": 0.3715536892414093,
+    "all_probabilities": {
+      "accident or crash": 0.05539902299642563,
+      "unusual event": 0.0028993727173656225,
+      "police activity": 0.3715536892414093,
+      "ambulance or emergency": 0.0505540706217289,
+      "construction zone": 0.05228353291749954,
+      "parade or event": 0.015705252066254616,
+      "protest or gathering": 0.010863056406378746,
+      "celebrity sighting": 0.0050291880033910275,
+      "beautiful sunset": 7.306361567316344e-06,
+      "interesting architecture": 0.0027385810390114784,
+      "crowd gathering": 0.11755160242319107,
+      "empty scene": 0.31541532278060913
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": 0.0,
+    "frame": 0,
+    "class": "pedestrians crossing",
+    "confidence": 0.3782213628292084,
+    "all_probabilities": {
+      "heavy traffic": 0.1159299984574318,
+      "light traffic": 0.09520311653614044,
+      "pedestrians crossing": 0.3782213628292084,
+      "vehicles moving": 0.041702210903167725,
+      "vehicles stopped": 0.06098370626568794,
+      "people waiting": 0.015214218758046627,
+      "construction work": 0.013421584852039814,
+      "street cleaning": 0.14311347901821136,
+      "delivery activity": 0.11487937718629837,
+      "public transportation": 0.015362233854830265,
+      "emergency vehicles": 0.00257220771163702,
+      "normal flow": 0.0033965581096708775
+    }
+  },
+  {
+    "timestamp": 2.0,
+    "frame": 50,
+    "class": "pedestrians crossing",
+    "confidence": 0.43062669038772583,
+    "all_probabilities": {
+      "heavy traffic": 0.11593565344810486,
+      "light traffic": 0.09086452424526215,
+      "pedestrians crossing": 0.43062669038772583,
+      "vehicles moving": 0.030368130654096603,
+      "vehicles stopped": 0.020035123452544212,
+      "people waiting": 0.012025861069560051,
+      "construction work": 0.006248640362173319,
+      "street cleaning": 0.17322203516960144,
+      "delivery activity": 0.08025605976581573,
+      "public transportation": 0.03301727771759033,
+      "emergency vehicles": 0.0034447836223989725,
+      "normal flow": 0.003955192863941193
+    }
+  },
+  {
+    "timestamp": 4.0,
+    "frame": 100,
+    "class": "pedestrians crossing",
+    "confidence": 0.35335955023765564,
+    "all_probabilities": {
+      "heavy traffic": 0.12362988293170929,
+      "light traffic": 0.1427747905254364,
+      "pedestrians crossing": 0.35335955023765564,
+      "vehicles moving": 0.04281475022435188,
+      "vehicles stopped": 0.026847831904888153,
+      "people waiting": 0.01784423738718033,
+      "construction work": 0.008488231338560581,
+      "street cleaning": 0.1869262307882309,
+      "delivery activity": 0.04697565734386444,
+      "public transportation": 0.04334563761949539,
+      "emergency vehicles": 0.0038873516023159027,
+      "normal flow": 0.0031058471649885178
+    }
+  },
+  {
+    "timestamp": 6.0,
+    "frame": 150,
+    "class": "street cleaning",
+    "confidence": 0.29911309480667114,
+    "all_probabilities": {
+      "heavy traffic": 0.10509314388036728,
+      "light traffic": 0.1173698678612709,
+      "pedestrians crossing": 0.23446644842624664,
+      "vehicles moving": 0.044055867940187454,
+      "vehicles stopped": 0.01309889368712902,
+      "people waiting": 0.018967969343066216,
+      "construction work": 0.004394355695694685,
+      "street cleaning": 0.29911309480667114,
+      "delivery activity": 0.11533619463443756,
+      "public transportation": 0.042477428913116455,
+      "emergency vehicles": 0.003015306778252125,
+      "normal flow": 0.002611452015116811
+    }
+  },
+  {
+    "timestamp": 8.0,
+    "frame": 200,
+    "class": "pedestrians crossing",
+    "confidence": 0.3132297992706299,
+    "all_probabilities": {
+      "heavy traffic": 0.14425034821033478,
+      "light traffic": 0.15847696363925934,
+      "pedestrians crossing": 0.3132297992706299,
+      "vehicles moving": 0.05708974972367287,
+      "vehicles stopped": 0.03686230629682541,
+      "people waiting": 0.009293144568800926,
+      "construction work": 0.00455118203535676,
+      "street cleaning": 0.15273785591125488,
+      "delivery activity": 0.09841504693031311,
+      "public transportation": 0.019141245633363724,
+      "emergency vehicles": 0.004092231392860413,
+      "normal flow": 0.0018601750489324331
+    }
+  },
+  {
+    "timestamp": 10.0,
+    "frame": 250,
+    "class": "pedestrians crossing",
+    "confidence": 0.4511581063270569,
+    "all_probabilities": {
+      "heavy traffic": 0.054476212710142136,
+      "light traffic": 0.05534284561872482,
+      "pedestrians crossing": 0.4511581063270569,
+      "vehicles moving": 0.02111813798546791,
+      "vehicles stopped": 0.011734928004443645,
+      "people waiting": 0.018299594521522522,
+      "construction work": 0.003963434603065252,
+      "street cleaning": 0.32989493012428284,
+      "delivery activity": 0.03897934779524803,
+      "public transportation": 0.012396185658872128,
+      "emergency vehicles": 0.0010340203298255801,
+      "normal flow": 0.0016022368799895048
+    }
+  },
+  {
+    "timestamp": 12.0,
+    "frame": 300,
+    "class": "pedestrians crossing",
+    "confidence": 0.49848973751068115,
+    "all_probabilities": {
+      "heavy traffic": 0.055670373141765594,
+      "light traffic": 0.04779263958334923,
+      "pedestrians crossing": 0.49848973751068115,
+      "vehicles moving": 0.03396123647689819,
+      "vehicles stopped": 0.015696831047534943,
+      "people waiting": 0.010466579347848892,
+      "construction work": 0.0030820940155535936,
+      "street cleaning": 0.27531999349594116,
+      "delivery activity": 0.038325779139995575,
+      "public transportation": 0.01646372862160206,
+      "emergency vehicles": 0.002067779889330268,
+      "normal flow": 0.002663171850144863
+    }
+  }
+]
