@@ -9,11 +9,11 @@
 # Data
 *.db
 *.csv
-#*.json
+*.json
 *.parquet
-#*.jpg
-#*.jpeg
-#*.png
+*.jpg
+*.jpeg
+*.png
 data/
 datasets/
 
